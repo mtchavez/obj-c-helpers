@@ -1,0 +1,134 @@
+
+// To check if a library is compiled with CocoaPods you
+// can use the `COCOAPODS` macro definition which is
+// defined in the xcconfigs so it is available in
+// headers also when they are imported in the client
+// project.
+
+
+// AFNetworking
+#define COCOAPODS_POD_AVAILABLE_AFNetworking
+#define COCOAPODS_VERSION_MAJOR_AFNetworking 1
+#define COCOAPODS_VERSION_MINOR_AFNetworking 1
+#define COCOAPODS_VERSION_PATCH_AFNetworking 0
+
+// ASIHTTPRequest
+#define COCOAPODS_POD_AVAILABLE_ASIHTTPRequest
+#define COCOAPODS_VERSION_MAJOR_ASIHTTPRequest 1
+#define COCOAPODS_VERSION_MINOR_ASIHTTPRequest 8
+#define COCOAPODS_VERSION_PATCH_ASIHTTPRequest 1
+
+// ASIHTTPRequest/ASIWebPageRequest
+#define COCOAPODS_POD_AVAILABLE_ASIHTTPRequest_ASIWebPageRequest
+#define COCOAPODS_VERSION_MAJOR_ASIHTTPRequest_ASIWebPageRequest 1
+#define COCOAPODS_VERSION_MINOR_ASIHTTPRequest_ASIWebPageRequest 8
+#define COCOAPODS_VERSION_PATCH_ASIHTTPRequest_ASIWebPageRequest 1
+
+// ASIHTTPRequest/CloudFiles
+#define COCOAPODS_POD_AVAILABLE_ASIHTTPRequest_CloudFiles
+#define COCOAPODS_VERSION_MAJOR_ASIHTTPRequest_CloudFiles 1
+#define COCOAPODS_VERSION_MINOR_ASIHTTPRequest_CloudFiles 8
+#define COCOAPODS_VERSION_PATCH_ASIHTTPRequest_CloudFiles 1
+
+// ASIHTTPRequest/S3
+#define COCOAPODS_POD_AVAILABLE_ASIHTTPRequest_S3
+#define COCOAPODS_VERSION_MAJOR_ASIHTTPRequest_S3 1
+#define COCOAPODS_VERSION_MINOR_ASIHTTPRequest_S3 8
+#define COCOAPODS_VERSION_PATCH_ASIHTTPRequest_S3 1
+
+// MBProgressHUD
+#define COCOAPODS_POD_AVAILABLE_MBProgressHUD
+#define COCOAPODS_VERSION_MAJOR_MBProgressHUD 0
+#define COCOAPODS_VERSION_MINOR_MBProgressHUD 6
+#define COCOAPODS_VERSION_PATCH_MBProgressHUD 0
+
+// MWPhotoBrowser
+#define COCOAPODS_POD_AVAILABLE_MWPhotoBrowser
+#define COCOAPODS_VERSION_MAJOR_MWPhotoBrowser 1
+#define COCOAPODS_VERSION_MINOR_MWPhotoBrowser 0
+#define COCOAPODS_VERSION_PATCH_MWPhotoBrowser 1
+
+// NSData+Base64
+#define COCOAPODS_POD_AVAILABLE_NSData_Base64
+#define COCOAPODS_VERSION_MAJOR_NSData_Base64 1
+#define COCOAPODS_VERSION_MINOR_NSData_Base64 0
+#define COCOAPODS_VERSION_PATCH_NSData_Base64 0
+
+// NSData+MD5Digest
+#define COCOAPODS_POD_AVAILABLE_NSData_MD5Digest
+#define COCOAPODS_VERSION_MAJOR_NSData_MD5Digest 1
+#define COCOAPODS_VERSION_MINOR_NSData_MD5Digest 0
+#define COCOAPODS_VERSION_PATCH_NSData_MD5Digest 0
+
+// Reachability
+#define COCOAPODS_POD_AVAILABLE_Reachability
+#define COCOAPODS_VERSION_MAJOR_Reachability 3
+#define COCOAPODS_VERSION_MINOR_Reachability 1
+#define COCOAPODS_VERSION_PATCH_Reachability 0
+
+// RestKit
+#define COCOAPODS_POD_AVAILABLE_RestKit
+#define COCOAPODS_VERSION_MAJOR_RestKit 0
+#define COCOAPODS_VERSION_MINOR_RestKit 20
+#define COCOAPODS_VERSION_PATCH_RestKit 0
+
+// RestKit/Core
+#define COCOAPODS_POD_AVAILABLE_RestKit_Core
+#define COCOAPODS_VERSION_MAJOR_RestKit_Core 0
+#define COCOAPODS_VERSION_MINOR_RestKit_Core 20
+#define COCOAPODS_VERSION_PATCH_RestKit_Core 0
+
+// RestKit/CoreData
+#define COCOAPODS_POD_AVAILABLE_RestKit_CoreData
+#define COCOAPODS_VERSION_MAJOR_RestKit_CoreData 0
+#define COCOAPODS_VERSION_MINOR_RestKit_CoreData 20
+#define COCOAPODS_VERSION_PATCH_RestKit_CoreData 0
+
+// RestKit/Network
+#define COCOAPODS_POD_AVAILABLE_RestKit_Network
+#define COCOAPODS_VERSION_MAJOR_RestKit_Network 0
+#define COCOAPODS_VERSION_MINOR_RestKit_Network 20
+#define COCOAPODS_VERSION_PATCH_RestKit_Network 0
+
+// RestKit/ObjectMapping
+#define COCOAPODS_POD_AVAILABLE_RestKit_ObjectMapping
+#define COCOAPODS_VERSION_MAJOR_RestKit_ObjectMapping 0
+#define COCOAPODS_VERSION_MINOR_RestKit_ObjectMapping 20
+#define COCOAPODS_VERSION_PATCH_RestKit_ObjectMapping 0
+
+// RestKit/Support
+#define COCOAPODS_POD_AVAILABLE_RestKit_Support
+#define COCOAPODS_VERSION_MAJOR_RestKit_Support 0
+#define COCOAPODS_VERSION_MINOR_RestKit_Support 20
+#define COCOAPODS_VERSION_PATCH_RestKit_Support 0
+
+// SBJson
+#define COCOAPODS_POD_AVAILABLE_SBJson
+#define COCOAPODS_VERSION_MAJOR_SBJson 3
+#define COCOAPODS_VERSION_MINOR_SBJson 2
+#define COCOAPODS_VERSION_PATCH_SBJson 0
+
+// SDWebImage
+#define COCOAPODS_POD_AVAILABLE_SDWebImage
+#define COCOAPODS_VERSION_MAJOR_SDWebImage 2
+#define COCOAPODS_VERSION_MINOR_SDWebImage 7
+#define COCOAPODS_VERSION_PATCH_SDWebImage 4
+
+// SDWebImage/Main
+#define COCOAPODS_POD_AVAILABLE_SDWebImage_Main
+#define COCOAPODS_VERSION_MAJOR_SDWebImage_Main 2
+#define COCOAPODS_VERSION_MINOR_SDWebImage_Main 7
+#define COCOAPODS_VERSION_PATCH_SDWebImage_Main 4
+
+// SOCKit
+#define COCOAPODS_POD_AVAILABLE_SOCKit
+#define COCOAPODS_VERSION_MAJOR_SOCKit 1
+#define COCOAPODS_VERSION_MINOR_SOCKit 1
+#define COCOAPODS_VERSION_PATCH_SOCKit 0
+
+// SSPullToRefresh
+#define COCOAPODS_POD_AVAILABLE_SSPullToRefresh
+#define COCOAPODS_VERSION_MAJOR_SSPullToRefresh 1
+#define COCOAPODS_VERSION_MINOR_SSPullToRefresh 1
+#define COCOAPODS_VERSION_PATCH_SSPullToRefresh 2
+

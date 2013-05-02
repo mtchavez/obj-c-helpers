@@ -1,0 +1,10 @@
+platform :ios, '5.0'
+
+pod 'ASIHTTPRequest'
+pod 'MWPhotoBrowser'
+pod 'NSData+Base64'
+pod 'NSData+MD5Digest'
+pod 'Reachability'
+pod 'RestKit'
+pod 'SBJson'
+pod 'SSPullToRefresh'

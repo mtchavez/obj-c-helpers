@@ -1,0 +1,66 @@
+PODS:
+  - AFNetworking (1.1.0)
+  - ASIHTTPRequest (1.8.1):
+    - ASIHTTPRequest/ASIWebPageRequest
+    - ASIHTTPRequest/CloudFiles
+    - ASIHTTPRequest/S3
+    - Reachability
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.1):
+    - Reachability
+  - ASIHTTPRequest/CloudFiles (1.8.1):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.1):
+    - Reachability
+  - MBProgressHUD (0.6)
+  - MWPhotoBrowser (1.0.1):
+    - MBProgressHUD
+    - SDWebImage (< 3.0.0)
+  - NSData+Base64 (1.0.0)
+  - NSData+MD5Digest (1.0.0)
+  - Reachability (3.1.0)
+  - RestKit (0.20.0):
+    - RestKit/Core
+  - RestKit/Core (0.20.0):
+    - RestKit/CoreData
+    - RestKit/Network
+    - RestKit/ObjectMapping
+  - RestKit/CoreData (0.20.0)
+  - RestKit/Network (0.20.0):
+    - AFNetworking (= 1.1.0)
+    - RestKit/ObjectMapping
+    - RestKit/Support
+    - SOCKit
+  - RestKit/ObjectMapping (0.20.0)
+  - RestKit/Support (0.20.0)
+  - SBJson (3.2)
+  - SDWebImage (2.7.4):
+    - SDWebImage/Main
+  - SDWebImage/Main (2.7.4)
+  - SOCKit (1.1)
+  - SSPullToRefresh (1.1.2)
+
+DEPENDENCIES:
+  - ASIHTTPRequest
+  - MWPhotoBrowser
+  - NSData+Base64
+  - NSData+MD5Digest
+  - Reachability
+  - RestKit
+  - SBJson
+  - SSPullToRefresh
+
+SPEC CHECKSUMS:
+  AFNetworking: 761a418233d280c1e0580bcb76ff9cb4c3073d17
+  ASIHTTPRequest: a79e32b54f92471bff8979f3b82182f0e9b6992c
+  MBProgressHUD: 9b55a90566fb5d07df0602f6fd9fa04510ad5d52
+  MWPhotoBrowser: e54233d4c88e951a3b6b8f136393614cf319ac47
+  NSData+Base64: 36c4e5b6479259c1a68866ccd2a8dd385c9744f7
+  NSData+MD5Digest: 8275479b2a935e6caa8a92a9a814fb5abecba367
+  Reachability: ba94ecd4eaa037be3d0588b38956672588530c5b
+  RestKit: 580771664a14eaaa40bf53cf83584f12fc141930
+  SBJson: 4971016670e7b3fa04a36d4e72ab0fb1ad3a9f69
+  SDWebImage: 06f076026fe7867ab0100fce95d943f7bff981eb
+  SOCKit: ed67aeeca4a697b63a933229e53f4670d5b9300f
+  SSPullToRefresh: 8d8360b0ff0dc7b344656b48ddf9732c47e78806
+
+COCOAPODS: 0.19.1
